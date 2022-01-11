@@ -1,0 +1,48 @@
+body {
+    background-color: #989898;
+}
+
+
+/*--------------------------------------------------------------------------------------------------*/
+
+.btn-sanduiche {
+    margin-left: -14px !important;
+    width: 60px !important;
+    height: 50px !important;
+    background-color: #257383;
+    border: 0;
+}
+
+.btn-sanduiche:hover {
+    color: black;
+    background-color: #257383;
+}
+
+svg {
+    width: 30px !important;
+    height: 30px !important;
+}
+
+.navbar {
+    background-color: #257383 !important;
+    opacity: 80% !important;
+}
+
+.navbar-brand {
+    margin-left: 40px !important;
+}
+
+
+
+/*--------------------------------------------------------------------------------------------------*/
+
+form {
+    background-color: #989898;
+    padding: 50px !important;
+}
+
+label {
+    font-size: 1.2em !important;
+    font-weight: bold;
+}
+

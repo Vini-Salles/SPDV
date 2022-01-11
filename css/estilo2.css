@@ -1,0 +1,168 @@
+body {
+    background-color: #989898;
+    overflow-x: hidden;
+}
+
+
+/*--------------------------------------------------------------------------------------------------*/
+
+.btn-sanduiche {
+    margin-left: -14px !important;
+    width: 60px !important;
+    height: 50px !important;
+    background-color: #257383;
+    border: 0;
+}
+
+.btn-sanduiche:hover {
+    color: black;
+    background-color: #257383;
+}
+
+svg {
+    width: 30px !important;
+    height: 30px !important;
+}
+
+.navbar {
+    background-color: #257383 !important;
+    opacity: 80% !important;
+}
+
+.navbar-brand {
+    margin-left: 13px !important;
+}
+
+.font-monospace {
+    margin-right: 10px !important;
+    margin-top: 10px !important;
+    cursor: pointer;
+}
+
+.bi-person-circle {
+    width: 26px !important;
+    height: 26px !important;
+    margin-top: -2px !important;
+    margin-right: 10px !important;
+    cursor: pointer;
+}
+
+.dropdown {
+    width: 20px !important;
+    margin-right: 60px !important;
+}
+
+.dropdown-toggle {
+    background-color: #257383 !important;
+    border: 0;
+}
+
+.dropdown-menu {
+    background-color: black !important;
+}
+
+.nav-menu {
+    width: 71px !important;
+    height: 100vh !important;
+    background-color: black !important;
+    border-right: 2px solid #535353;
+}
+
+.nav-link1 {
+    margin-top: 60px !important;
+}
+
+.list-group {
+    width: 230px !important;
+    margin-left: 36px !important;
+    margin-top: -30px !important;
+    display: none;
+}
+
+.list-group-item {
+    color: aliceblue;
+    background-color: black !important;
+    border: 1px solid #53535353;
+    margin-bottom: 20px !important;
+    border-top: 1px solid #535353 !important;
+}
+
+.list-group-item:hover {
+    color: aliceblue;
+    background-color: #535353 !important;
+}
+/*---------------------------------------------------------------------------------------------------------*/
+/*============================Formatando os icones do nav-menu=====================*/
+
+.bi-person {
+    margin-top: 20px !important; 
+    color: #257383 !important;
+}
+
+.bi-truck {
+    margin-left: -36px !important;
+    margin-bottom: -160px !important;
+    color: #257383 !important;
+}
+
+.bi-cart {
+    margin-left: -36px !important;
+    margin-bottom: -280px !important;
+    color: #257383 !important;
+}
+
+.bi-bag {
+    margin-left: -36px !important;
+    margin-bottom: -400px !important;
+    color: #257383 !important;
+}
+
+.caixa {
+    margin-left: -36px !important;
+    margin-bottom: -530px !important;
+    color: #257383 !important;
+}
+
+.bi-currency-dollar {
+    margin-left: -34px !important;
+    margin-bottom: -650px !important;
+    color: #257383 !important;
+}
+
+.bi-bank {
+    margin-left: -32px !important;
+    margin-bottom: -770px !important;
+    color: #257383 !important;
+}
+
+.bi-cash-coin {
+    margin-left: -34px !important;
+    margin-bottom: -906px !important;
+    color: #257383 !important;
+}
+
+.bi-cpu {
+    margin-left: -32px !important;
+    margin-bottom: -1020px !important;
+    color: #257383 !important;
+}
+
+/*---------------------------------------------------------------------------------------------------------*/
+
+
+
+.rodape {
+    height: 40px !important;
+    width: 100vw !important;
+    margin-left: 70px !important;
+    margin-top: -400px !important;
+    background-color: #257383 !important;
+    opacity: 80% !important;
+    color: black;
+    border-radius: 2px !important;
+}
+
+.rodape label {
+    font-size: 12px !important;
+    margin-top: 10px !important;
+}
